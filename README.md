@@ -1,4 +1,6 @@
 # recipe-project
-linking to other pages
-using images
-ordered and unordered list
+
+### odin project 
+# used linking to other pages
+# using images
+# ordered and unordered list
