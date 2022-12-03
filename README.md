@@ -1,6 +1,7 @@
 # recipe-project
 
 ## odin project 
-### used linking to other pages
-### using images
-### ordered and unordered list
+- Linking to other pages
+- using images
+- Ordered and Unordered List
+- Styling with External Stylesheet
